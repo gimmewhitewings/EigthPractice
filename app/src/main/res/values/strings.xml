@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EigthPractice</string>
+    <string name="russian">Russian</string>
+    <string name="math">Math</string>
+    <string name="informatics">Informatics</string>
+    <string name="physics">Physics</string>
+    <string name="biology">Biology</string>
+    <string name="exams">Exams</string>
+</resources>
